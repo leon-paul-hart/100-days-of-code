@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 20, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Publicly committed to the task at my Github.io blog at <https://leon-paul-hart.github.io/>. I set up the blog in Jekyll on Github a while back, but it's finally been put to use today as I don't have twitter or other social media to post to.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I think the hardest part for me has been committing to this challenge and starting the ball rolling, for various reasons detailed in my blog post here <https://leon-paul-hart.github.io/blog/adhd/neurodiversity/2020/05/20/ADHD-and-the-100-days-of-code-challenge.html> extended endeavours like this can be problematic for me. With work taking up alot of my energy too its hard spending a whole day coding and coming back home to do more! But I'm feeling inspired by the latest Microsoft Build conference and I'm excited to get stuck in while the inspirtation is flowing, hope I can keep it up if the inspiration starts to falter!
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** <https://github.com/leon-paul-hart/leon-paul-hart.github.io>
