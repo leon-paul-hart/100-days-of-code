@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 20, 2020
+## Day 0: May 20, 2020
 
 **Today's Progress**: Publicly committed to the task at my Github.io blog at <https://leon-paul-hart.github.io/>. I set up the blog in Jekyll on Github a while back, but it's finally been put to use today as I don't have twitter or other social media to post to.
 
