@@ -9,7 +9,21 @@
 
 ## Translations
 
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md)
+[বাংলা](https://github.com/kallaway/100-days-of-code/blob/master/intl/bn/README.md) -
+[català](https://github.com/kallaway/100-days-of-code/blob/master/intl/ca/README.md) -
+[中文](https://github.com/kallaway/100-days-of-code/blob/master/intl/ch/README.md) -
+[deutsch](https://github.com/kallaway/100-days-of-code/blob/master/intl/de/README.md) -
+[ελληνικά](https://github.com/kallaway/100-days-of-code/blob/master/intl/el/README.md) -
+[español](https://github.com/kallaway/100-days-of-code/blob/master/intl/es/README.md) –
+[français](https://github.com/kallaway/100-days-of-code/blob/master/intl/fr/README.md) –
+[italiano](https://github.com/kallaway/100-days-of-code/blob/master/intl/it/README.md) –
+[日本語](https://github.com/kallaway/100-days-of-code/blob/master/intl/ja/README.md) -
+[한국어](https://github.com/kallaway/100-days-of-code/blob/master/intl/ko/README-ko.md) –
+[norsk](https://github.com/kallaway/100-days-of-code/blob/master/intl/no/README.md) –  
+[polski](https://github.com/kallaway/100-days-of-code/blob/master/intl/pl/README.md) -
+[português do Brasil](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/LEIAME.md) -
+[русский](https://github.com/kallaway/100-days-of-code/blob/master/intl/ru/README-ru.md) –
+[українська](https://github.com/kallaway/100-days-of-code/blob/master/intl/ua/README-ua.md) -
 
 If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
