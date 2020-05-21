@@ -27,7 +27,7 @@
 
 If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
-## If you've decided to join:
+## If you've decided to join
 
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE) is a invite link to the 100DaysOfCode Slack channel
