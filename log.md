@@ -43,3 +43,15 @@ So today I managed to...
 **Thoughts:** The issue here is that they all show a completely different way of doing things, going to have to go through them and figure out what is the most relevant method.
 
 **Link to work:** Little in the way of programming process that I can show, as uploading the develop branch to Github would expose the API key as it is currently in the code for debugging.
+
+---
+
+## Day 3 : May 29, 2020
+
+**Today's Progress**: So I fell off the wagon a bit sooner than expected... its been a few days since I last managed to properly sit down and programme for a full hour outside of work, but I've been thinking about the issue with the configuration settings for the [OMDb_API_Console_App](https://github.com/leon-paul-hart/OMDb_API_Console_App) and decided to skip having a configuration file for now, instead I've refactored the application to request the user inputs an API key of their own at runtime and it will use that provided key as a parameter in the final API query. This seems like a simpler and more user friendly way of doing things.
+
+**Thoughts:** Pivoting like this is something I hope to get faster at doing over time and with practice, sometimes the notion of a 'best practice' can actually go against what is the best course of action. A recurring problem I have is making things overly complex from the start and painting myself into a corner. Constantly re-assessing and simplifying is a skill I am working on developing, and this is where I see the benefit of the #100DaysOfCode approach. Where an existing large complicated project with a lot of existing structure and decisions made by others permeating every line of code can be intimidating, and can limit what a relatively junior developer like myself feels comfortable making decisions on, a small solo project like this allows me to exercise that decision making process without worrying about stepping on senior developers toes, or making decisions which could be unintentionally detrimental to the project through lack of knowledge or understanding of the broader application stack.
+
+**Link to work:** [OMDb_API_Console_App](https://github.com/leon-paul-hart/OMDb_API_Console_App)
+
+---
