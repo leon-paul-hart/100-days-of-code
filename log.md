@@ -32,7 +32,7 @@ So today I managed to...
 
 ## Day 2: May 22, 2020
 
-Still thinking about the configuration issue and how to get it working in a .Net Core console app, there is a lot of documentation on how to use configuration files in ASP.Net Core applications, which come with templates already set up to use configuration files, but not a lot of documentation for simple console apps. I did find a few articles though that I am working through :
+**Today's Progress**: Still thinking about the configuration issue and how to get it working in a .Net Core console app, there is a lot of documentation on how to use configuration files in ASP.Net Core applications, which come with templates already set up to use configuration files, but not a lot of documentation for simple console apps. I did find a few articles though that I am working through :
 
 - <https://garywoodfine.com/configuration-api-net-core-console-application/>
 - <https://pradeeploganathan.com/dotnet/configuration-in-a-net-core-console-application/>
@@ -40,6 +40,6 @@ Still thinking about the configuration issue and how to get it working in a .Net
 - <https://ballardsoftware.com/adding-appsettings-json-configuration-to-a-net-core-console-application/>
 - <https://blog.bitscry.com/2017/05/30/appsettings-json-in-net-core-console-app/>
 
-The issue here is that they all show a completely different way of doing things, going to have to go through them and figure out what is the most relevant method.
+**Thoughts:** The issue here is that they all show a completely different way of doing things, going to have to go through them and figure out what is the most relevant method.
 
-Little in the way of programming process that I can show, as uploading the develop branch to Github would expose the API key as it is currently in the code for debugging.
+**Link to work:** Little in the way of programming process that I can show, as uploading the develop branch to Github would expose the API key as it is currently in the code for debugging.
