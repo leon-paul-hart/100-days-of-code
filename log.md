@@ -6,7 +6,7 @@
 
 **Thoughts:** I think the hardest part for me has been committing to this challenge and starting the ball rolling, for various reasons detailed in my blog post here <https://leon-paul-hart.github.io/blog/adhd/neurodiversity/2020/05/20/ADHD-and-the-100-days-of-code-challenge.html> extended endeavors like this can be problematic for me. With work taking up a lot of my energy too its hard spending a whole day coding and coming back home to do more! But I'm feeling inspired by the latest Microsoft Build conference and I'm excited to get stuck in while the inspiration is flowing, hope I can keep it up if the inspiration starts to falter!
 
-**Link to work:** <https://github.com/leon-paul-hart/leon-paul-hart.github.io>
+**Link to work:** [leon-paul-hart/leon-paul-hart.github.io](https://github.com/leon-paul-hart/leon-paul-hart.github.io)
 
 ---
 
@@ -26,7 +26,7 @@ So today I managed to...
 
 **Thoughts:** I [registered for an API key](https://www.omdbapi.com/apikey.aspx), and got the console app running and pulling back the sample JSON from the API, which was easier than I expected it to be, I was over complicating it to start with. I did hit a real wall though when I went to try and set up a configuration file in the project that would keep my API key a secret and not commit it to the repo where anyone can see it. It's a free key, and it's limited in its number of requests per day, its not the end of the world if it gets exposed, BUT it goes against best practices. I'm discovering that the myriad of configuration options available in .Net development is absolutely [INSANE](https://docs.microsoft.com/en-gb/dotnet/api/system.configuration?view=dotnet-plat-ext-3.1), again, I'm probably over complicating it, I'm more than likely missing something simple, but I'm learning some core functionality about building applications that can utilise proper configuration settings.
 
-**Link to work:** <https://github.com/leon-paul-hart/OMDb_API_Console_App>
+**Link to work:** [OMDb_API_Console_App](https://github.com/leon-paul-hart/OMDb_API_Console_App)
 
 ---
 
@@ -58,7 +58,7 @@ So today I managed to...
 
 ## Day 4 : May 30, 2020
 
-**Today's Progress**: Off at a tangent today! I dusted off an old Java CodeClan project that I was proud of at the time, only to be horrified at the state of the code... I guess it's a sign of progress! I ended up going over the code and fixing a lot of silly conceptual mistakes and refining the unit tests that were in place, even added some more to fill the gaps I had missed at the time, there is A LOT of work to be done to get this project up to a reasonable standard that I wouldn't be embarrassed by today. The main learning of today was getting the project working properly in the IntelliJ Idea IDE, as at the time of the training all the java projects we created were made in a text editor for learning purposes (IntelliJ did exist then, we're not talking decades ago!) This activity spun off into getting the project running and building using Maven, which was a learning curve in and of itself, but I succeeded! and with my final commit of the day the project is now in a decent state for further (much needed) development.
+**Today's Progress:** Off at a tangent today! I dusted off an old Java CodeClan project that I was proud of at the time, only to be horrified at the state of the code... I guess it's a sign of progress! I ended up going over the code and fixing a lot of silly conceptual mistakes and refining the unit tests that were in place, even added some more to fill the gaps I had missed at the time, there is A LOT of work to be done to get this project up to a reasonable standard that I wouldn't be embarrassed by today. The main learning of today was getting the project working properly in the IntelliJ Idea IDE, as at the time of the training all the java projects we created were made in a text editor for learning purposes (IntelliJ did exist then, we're not talking decades ago!) This activity spun off into getting the project running and building using Maven, which was a learning curve in and of itself, but I succeeded! and with my final commit of the day the project is now in a decent state for further (much needed) development.
 
 **Thoughts:** Looking back on how much I struggled at the time when creating this project and comparing it to now is quite eye opening. I wouldn't have been able to do a fraction of what I completed today back then, I would have been absolutely floored. I'm still no Java expert, and I haven't changed the code much (yet!) but just being able to navigate my way around a new IDE and several new/updated Frameworks all while getting to grips and refactoring poorly written learner code from my past... it's a good feeling, I've held off the imposter syndrome for another day. I HAVE grown as a developer. Feels good :)
 
