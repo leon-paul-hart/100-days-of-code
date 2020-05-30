@@ -55,3 +55,13 @@ So today I managed to...
 **Link to work:** [OMDb_API_Console_App](https://github.com/leon-paul-hart/OMDb_API_Console_App)
 
 ---
+
+## Day 4 : May 30, 2020
+
+**Today's Progress**: Off at a tangent today! I dusted off an old Java CodeClan project that I was proud of at the time, only to be horrified at the state of the code... I guess it's a sign of progress! I ended up going over the code and fixing a lot of silly conceptual mistakes and refining the unit tests that were in place, even added some more to fill the gaps I had missed at the time, there is A LOT of work to be done to get this project up to a reasonable standard that I wouldn't be embarrassed by today. The main learning of today was getting the project working properly in the IntelliJ Idea IDE, as at the time of the training all the java projects we created were made in a text editor for learning purposes (IntelliJ did exist then, we're not talking decades ago!) This activity spun off into getting the project running and building using Maven, which was a learning curve in and of itself, but I succeeded! and with my final commit of the day the project is now in a decent state for further (much needed) development.
+
+**Thoughts:** Looking back on how much I struggled at the time when creating this project and comparing it to now is quite eye opening. I wouldn't have been able to do a fraction of what I completed today back then, I would have been absolutely floored. I'm still no Java expert, and I haven't changed the code much (yet!) but just being able to navigate my way around a new IDE and several new/updated Frameworks all while getting to grips and refactoring poorly written learner code from my past... it's a good feeling, I've held off the imposter syndrome for another day. I HAVE grown as a developer. Feels good :)
+
+**Link to work:** [Java_Zoo_Manager](https://github.com/leon-paul-hart/Java_Zoo_Manager)
+
+---
